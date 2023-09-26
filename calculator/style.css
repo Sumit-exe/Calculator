@@ -7,7 +7,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background: beige;
+    background: rgb(182, 253, 233);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,5 +45,5 @@ form input.equal{
     width: 145px;
 }
 form input.operator{
-    color: rgb(234, 234, 133);
+    color: rgb(102, 252, 210);
 }
